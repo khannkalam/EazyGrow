@@ -1,0 +1,78 @@
+
+[
+  {
+    "id": 1,
+    "title": "Boost Your Leads",
+    "description": "Harness AI for Effective Campaigns Lorem ipsum.",
+    "cta": "Learn More",
+    "image": "/images/ad7.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+  },
+  {
+    "id": 2,
+    "title": "Increase Your Sales",
+    "description": "Advanced Marketing Strategies  Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "cta": "Get Started",
+   "image": "/images/ad10.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+  },
+  {
+    "id": 3,
+    "title": "Boost Your Leads",
+    "description": "Harness AI for Effective Campaigns",
+    "cta": "Learn More",
+    "image": "/images/ad10.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+  },
+  {
+    "id": 4,
+    "title": "Increase Your Sales",
+    "description": "Advanced Marketing Strategies  Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "cta": "Learn More",
+    "image": "/images/ad1.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+  },
+  {
+    "id": 5,
+    "title": "Boost Your Leads",
+    "description": "Harness AI for Effective Campaigns",
+    "cta": "Learn More",
+    "image": "/images/ad5.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+  },
+  {
+    "id": 6,
+    "title": "Increase Your Sales",
+    "description": "Advanced Marketing Strategies  Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "cta": "Learn More",
+    "image": "/images/ad6.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+  },
+  {
+    "id": 7,
+    "title": "Increase Your Sales",
+    "description": "Advanced Marketing Strategies",
+    "cta": "Get Started",
+   "image": "/images/ad2.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+  },
+  {
+    "id": 8,
+    "title": "Increase Your Sales",
+    "description": "Advanced Marketing Strategies  Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "cta": "Learn More",
+    "image": "/images/ad3.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+  },
+  {
+    "id": 9,
+    "title": "Increase Your Sales",
+    "description": "Advanced Marketing Strategies",
+    "cta": "Get Started",
+   "image": "/images/ad9.jpg",
+    "backgroundImage": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+  }
+  
+
+  
+]

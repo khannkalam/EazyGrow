@@ -1,0 +1,30 @@
+
+
+.navbar {
+    height: 7rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 350px 0 350px;
+    background-color: rgb(137 141 164 / 13%);
+    color: #ebe524;
+    font-weight: 500;
+    font-size: large;
+  }
+  
+
+  .navLinks {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navLinks li {
+    cursor: pointer;
+  }
+  
+  .navLinks li a {
+    color: #f4ed16;
+    text-decoration: none;
+  }
+  
